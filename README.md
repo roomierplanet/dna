@@ -16,3 +16,5 @@ How the program works:
 4) Again turns to the CSV and compares the list of LargestSTRs to the STRs in the CSV file, returning the name of the corresponding entry. 
 
 5) Crime Solved!
+
+Disclaimer: This problem has been adapted from a Problem Set for CS50x 2021, a course in Computer Science held by Harvard University. The database and sequences file are not my intellectual property. The publication of my solution for this problem and the files provided by CS50 are permitted since the course, its content and problems are open to all individuals.
